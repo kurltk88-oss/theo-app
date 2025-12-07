@@ -1,4 +1,5 @@
 import streamlit as st
+from openai import OpenAI
 
 """
 # Hello World, Streamlit!
